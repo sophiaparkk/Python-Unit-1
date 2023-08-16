@@ -1,0 +1,2 @@
+title, author, year, rating, pages
+The Giver, Lois Lowry, 1993, 3.5, 240
